@@ -1,0 +1,10 @@
+JOSÉ ORTÍZ
+
+IMPORTANTE PARA VER EL FORMULARIO EN MODO DISEÑO:
+1. Descomprima el ZIP completo en una carpeta nueva.
+2. Abra el archivo ProblemaX.sln (NO abra Form1.cs directamente desde Windows).
+3. Espere a que Visual Studio termine de cargar/restaurar el proyecto.
+4. En el Explorador de soluciones, seleccione Form1.cs.
+5. Use Shift + F7 o clic derecho > Ver diseñador.
+
+Este proyecto incluye metadatos explícitos para que Visual Studio reconozca Form1.cs como un Windows Form y para impedir que Form1.resx regenere/reescriba Form1.Designer.cs.
